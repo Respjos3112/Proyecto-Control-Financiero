@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "445": "contafaqgt",
+    "1233": "contafaqie",
+    "default": "contafaqgt",
+    "Contafaqie": "contafaqie",
+    "contagt": "contafaqie",
+    "a": "contafaqie"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
